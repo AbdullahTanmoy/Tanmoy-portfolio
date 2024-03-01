@@ -182,10 +182,12 @@ main{
     margin-bottom: 24px;
     border: 0;
     width: 100%;
-    padding: 18px 30px;
+    padding: 18px 30px; 
+    /* border: 2px solid red; */
 }
 input{
     height: 64px;
+    /* border: 2px solid blue; */
 }
 .Para-description{
     margin-top: 20px;
